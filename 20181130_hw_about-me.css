@@ -1,0 +1,53 @@
+body{
+	background-color: black;
+	color: white;
+	font-family: 'Nanum Gothic', sans-serif;
+}
+h1{
+	font-size: 150px;
+	font-weight: 300;
+	width: 600px;
+	height: 100px;
+	background-color: #cce6ff;
+	text-align: right;
+	float: right;
+}
+.pagetitle2{
+	clear: both;
+}
+
+nav{
+	text-align: center;
+}
+
+nav li{
+	display: inline;
+}
+
+nav li a{
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+nav li a:hover{
+	color: black;
+}
+ 
+p{
+	width: 400px;
+	margin-top: 20px;
+}
+
+.title{
+	font-size: 40px;
+	text-align: center;
+	width: 100%;
+}
+
+img{
+	width: 400px;
+	height: auto;
+	text-align: right;
+	float: right;
+}
