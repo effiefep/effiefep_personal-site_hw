@@ -51,3 +51,26 @@ img{
 	text-align: right;
 	float: right;
 }
+
+h1 .gallery{
+	text-align: center;
+	font-family: 'Noto Serif SC', serif;
+}
+img .gallery{
+	width: 100%;
+	height: auto;
+}
+
+.row{
+	padding: 15px;
+}
+
+@media all and (max-width: 900px){
+	body{
+		background-color: pink;
+	}
+
+@media all and (max-width: 600px){
+	body{
+		background-color: purple;
+	}
